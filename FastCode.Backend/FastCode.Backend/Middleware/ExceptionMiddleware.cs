@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using FastCode.Backend.Core.MException;
+using System.Net;
 using System.Runtime.InteropServices;
 
 namespace FastCode.Backend.Middleware

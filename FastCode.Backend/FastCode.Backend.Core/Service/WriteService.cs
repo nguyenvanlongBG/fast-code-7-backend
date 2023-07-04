@@ -87,8 +87,8 @@ namespace FastCode.Backend.Core.Service
             }
             else
             {
-                userMessages.Add(ErrorResource.errorRequest);
-                devMessages.Add(ErrorResource.emptyRequest);
+                userMessages.Add(ErrorResourceStatic.errorRequest);
+                devMessages.Add(ErrorResourceStatic.emptyRequest);
                 throw new ValidateException(userMessages, devMessages);
             }
             return 0;
@@ -108,13 +108,13 @@ namespace FastCode.Backend.Core.Service
             {
                 await ValidateBeforeUpdate(id, entityUpdateDto);
                 var entity = _mapper.Map<TEntity>(entityUpdateDto);
-                var status = await _baseRepository.UpdateAsync(id, entity);
+                var status = await _writeRepository.UpdateAsync(id, entity);
                 return status;
             }
             else
             {
-                userMessages.Add(ErrorResource.errorRequest);
-                devMessages.Add(ErrorResource.emptyRequest);
+                userMessages.Add(ErrorResourceStatic.errorRequest);
+                devMessages.Add(ErrorResourceStatic.emptyRequest);
                 throw new ValidateException(userMessages, devMessages);
             }
         }

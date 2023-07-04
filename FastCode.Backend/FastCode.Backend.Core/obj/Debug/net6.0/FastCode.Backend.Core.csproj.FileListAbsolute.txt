@@ -1,0 +1,14 @@
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.csproj.AssemblyReference.cache
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.Resource.ErrorResource.resources
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.csproj.GenerateResource.cache
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.AssemblyInfoInputs.cache
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.AssemblyInfo.cs
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.csproj.CoreCompileInputs.cache
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\bin\Debug\net6.0\FastCode.Backend.Core.deps.json
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\bin\Debug\net6.0\FastCode.Backend.Core.dll
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\bin\Debug\net6.0\FastCode.Backend.Core.pdb
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.dll
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\refint\FastCode.Backend.Core.dll
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\FastCode.Backend.Core.pdb
+G:\fast-code-7\fast-code-7-backend\FastCode.Backend\FastCode.Backend.Core\obj\Debug\net6.0\ref\FastCode.Backend.Core.dll

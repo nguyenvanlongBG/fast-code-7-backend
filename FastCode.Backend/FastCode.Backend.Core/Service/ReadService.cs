@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using FastCode.Backend.Core.Constant;
 using FastCode.Backend.Core.Dto;
 using FastCode.Backend.Core.Enum;
 using FastCode.Backend.Core.Interface.Repository;

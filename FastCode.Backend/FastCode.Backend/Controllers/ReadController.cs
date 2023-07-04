@@ -1,4 +1,7 @@
-﻿namespace FastCode.Backend.Controllers
+﻿using FastCode.Backend.Core.Interface.Service;
+using Microsoft.AspNetCore.Mvc;
+
+namespace FastCode.Backend.Controllers
 {
     [ApiController]
 
